@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-Dappazon is a blockchain-based e-commerce platform inspired by Amazon, developed to showcase the transformative potential of Web3 in creating transparent, trustless, and decentralized marketplaces. Our enhanced version is aimed at solving real-world supply chain challenges by integrating a sustainability-focused verification mechanism.
+Dappakart is a blockchain-based e-commerce platform inspired by Amazon, developed to showcase the transformative potential of Web3 in creating transparent, trustless, and decentralized marketplaces. Our enhanced version is aimed at solving real-world supply chain challenges by integrating a sustainability-focused verification mechanism.
 
 ### Inspiration
 
